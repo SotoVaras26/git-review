@@ -16,6 +16,7 @@
 		5EED30E42E84AFA500A980ED /* GitReviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EED30E32E84AFA500A980ED /* GitReviewTests.swift */; };
 		5EED30EE2E84AFA500A980ED /* GitReviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EED30ED2E84AFA500A980ED /* GitReviewUITests.swift */; };
 		5EED30F02E84AFA500A980ED /* GitReviewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EED30EF2E84AFA500A980ED /* GitReviewUITestsLaunchTests.swift */; };
+		5EED30FD2E84BE2000A980ED /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EED30FC2E84BE2000A980ED /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5EED30E92E84AFA500A980ED /* GitReviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitReviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EED30ED2E84AFA500A980ED /* GitReviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitReviewUITests.swift; sourceTree = "<group>"; };
 		5EED30EF2E84AFA500A980ED /* GitReviewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitReviewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5EED30FC2E84BE2000A980ED /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5EED30D52E84AFA500A980ED /* Assets.xcassets */,
 				5EED30D72E84AFA500A980ED /* LaunchScreen.storyboard */,
 				5EED30DA2E84AFA500A980ED /* Info.plist */,
+				5EED30FC2E84BE2000A980ED /* ViewModel.swift */,
 			);
 			path = GitReview;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				5EED30D12E84AFA400A980ED /* ViewController.swift in Sources */,
 				5EED30CD2E84AFA400A980ED /* AppDelegate.swift in Sources */,
+				5EED30FD2E84BE2000A980ED /* ViewModel.swift in Sources */,
 				5EED30CF2E84AFA400A980ED /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
