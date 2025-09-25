@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("ya hice toda mi tarea")
+        print("solucion de conflictos")
     }
 
 }
