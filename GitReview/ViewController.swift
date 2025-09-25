@@ -13,8 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("ya hice toda mi tarea")
-        print("solucion de conflictos")
+        print("ya hice toda mi tarea, FUGA RESUELTA")
+        print("solucion de conflictos v2")
     }
 
 }

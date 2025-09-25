@@ -8,5 +8,5 @@
 import Foundation
 
 final class ViewModel {
-    
+    let user = "Pablo"
 }
